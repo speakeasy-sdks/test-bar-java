@@ -1,0 +1,24 @@
+configVersion: 1.0.0
+generation:
+  comments:
+    disableComments: false
+    omitDescriptionIfSummaryPresent: false
+  baseServerURL: ""
+  flattenGlobalSecurity: true
+  repoURL: https://github.com/speakeasy-sdks/test-bar.git
+  sdkClassName: test-bar
+  singleTagPerOp: false
+  tagNamespacingDisabled: false
+  usageSnippets:
+    optionalPropertyRendering: withExample
+java:
+  version: 0.0.1
+  artifactID: test-bar
+  companyEmail: info@mycompany.com
+  companyName: My Company
+  companyURL: www.mycompany.com
+  githubURL: github.com/owner/repo
+  groupID: anuraag-test
+  maxMethodParams: 4
+  ossrhURL: https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/
+  projectName: test-bar
